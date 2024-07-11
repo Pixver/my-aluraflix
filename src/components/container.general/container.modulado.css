@@ -1,0 +1,12 @@
+.containerGeneral{
+
+    margin:  2em 2em;
+    text-align: center;
+    display: flex;
+
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 5em;
+
+   
+}

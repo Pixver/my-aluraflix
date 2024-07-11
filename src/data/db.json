@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "titulo": "Cuando usar let , var, y const?",
+        "capa": "https://react-aluraflix-s1.vercel.app/assets/img/frontend1.png",
+        "link": "https://www.youtube.com/embed/PztCEdIJITY"
+    },
+    {
+        "id": 2,
+        "titulo": "¿Que es javascript?",
+        "capa": "https://react-aluraflix-s1.vercel.app/assets/img/frontend2.png",
+        "link": "https://www.youtube.com/embed/GJfOSoaXk4s"
+    },
+    {
+        "id": 3,
+        "titulo": "Equipo front end",
+        "capa": "https://react-aluraflix-s1.vercel.app/assets/img/IG3.png",
+        "link": "https://www.youtube.com/embed/rpvrLaBQwgg"
+    },
+    {
+        "id": 4,
+        "titulo": "Spring framework",
+        "capa": "https://react-aluraflix-s1.vercel.app/assets/img/backend1.png",
+        "link": "https://www.youtube.com/embed/t-iqt1b2qqk"
+    },
+    {
+        "id": 5,
+        "titulo": "Que es SQL y NOSQL",
+        "capa": "https://react-aluraflix-s1.vercel.app/assets/img/backend2.png",
+        "link": "https://www.youtube.com/embed/cLLKVd5CNLc"
+    },
+    {
+        "id": 6,
+        "titulo": "Simplificando tu codigo en java, conoce los enum",
+        "capa": "https://react-aluraflix-s1.vercel.app/assets/img/backend3.png",
+        "link": "https://www.youtube.com/embed/EoPvlE85XAQ"
+    },
+    {
+        "id": 7,
+        "titulo": "¿Que son los soft skills?",
+        "capa": "https://react-aluraflix-s1.vercel.app/assets/img/IG1.png",
+        "link": "https://www.youtube.com/embed/vhwspfvI52k"
+    },
+    {
+        "id": 8,
+        "titulo": "Las soft skills mas deseadas",
+        "capa": "https://react-aluraflix-s1.vercel.app/assets/img/IG2.png",
+        "link": "https://www.youtube.com/embed/YhR7Zp8NUzE"
+    },
+    {
+        "id": 9,
+        "titulo": "Metodologias agiles",
+        "capa": "https://react-aluraflix-s1.vercel.app/assets/img/IG3.png",
+        "link": "https://www.youtube.com/embed/6N3OkLCfK-0"
+    }
+]

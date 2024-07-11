@@ -1,0 +1,42 @@
+section{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+   
+
+font-size: 12px;
+
+
+   padding: 0 25px;
+    display: flex;
+
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 5em;
+    background-color: var(--negro);
+}
+
+h1{
+    display: flex;
+    align-content: center;
+    text-align: center;
+    margin:  0 2em;
+    color: var(--blanco);
+}
+h2{
+    display:flex;
+    text-align: center;
+    margin: 0 2px;
+    color: var(--negro);
+
+}
+p{ 
+    display: block;
+    margin-right: 50%;
+    margin-left: 25px;
+    text-align: justify;
+    color: var(--blanco);
+
+}
+    
+
